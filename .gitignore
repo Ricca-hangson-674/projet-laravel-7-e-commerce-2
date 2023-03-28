@@ -11,6 +11,8 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 .idea
+/.idea
 /public/backend
 /public/frontend
 /public/uploads
+/mysql
